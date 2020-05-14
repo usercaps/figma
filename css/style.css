@@ -780,7 +780,20 @@ footer .contact span {
 footer .contact img {
   align-self: start;
 }
+@media(max-width: 1400px){
+  .container1 .img_1 img {
+    width: 1024px;
+  }
+    .blure{
+      width: 1024px;
+    }
+    .container1-nav{
+      width: 649px;
+    }
+}
+@media(max-width: 1280px){
 
+}
 @media(max-width: 1024px){
   .container1{
     background:#627481;
@@ -1023,4 +1036,168 @@ footer .contact img {
     height: 484px;
 
   }
+}@media(max-width: 900px){
+  .container7-info h3 {
+    font-size: 15px;
+  }
+  .container2 {
+      width: 900px;
+    }
+  .container2 .content2 h3{
+  width: 408px;
+    position: relative;
+    left: 30%;
+    } 
+  .content9 {
+    width: 900px;}
+    .boder2{
+      position: relative;
+      left: 50px;
+    }
+    .boder4{
+      position: relative;
+      left: 80px;
+    }
+    .boder1{
+      position: relative;
+      left: -45px;
+    }
+    .boder1 h4{
+      position: relative;
+      left: -40px;
+    }
+    .boder3{
+      position: relative;
+      left: 105px;
+    }
+    .boder3 h4{
+      left: 50px;
+    position: relative;
+    }
+    .boder3 p{
+      position: relative;
+    left: 65px;
+    }
+    .rightside-15{
+      margin-left: 15px;
+    }
+    .container15-h2{
+      margin-bottom: 35px;
+    font-size: 22px;
+    }
+    .table ol{
+      width: 370px;
+    }
+    .table li{
+      font-size: 15px;
+    }
+    .table .button button{
+      position: relative;
+    right: 0px;
+    bottom: 130px;
+    left: 155%;
+    }
+    .container17 .flex-17 {
+      display: inline-flex;
+    }
+    .container17{
+      height: 612px;
+    }
+
+
+  }
+
+@media(max-width: 768px){
+  .container17 .img_17 img {
+    width: 388px;
+    height: 388px;
+  }
+    .table ol {
+      width: 285px;
+    }
+    .table{
+      position: relative;
+    left: 48px;
+    }
+    .table .button button{
+      position: relative;
+      right: 130px;
+      top: -84px;
+      bottom: 130px;
+      left: 155%;
+    }
+    .img-15c img {
+      width: 80vh;
+      height: 104vh;
+    }
+    .text-15 {
+      left: 90px;
+      width: 331px;
+    }
+    .rightside-15{
+      left: -81px;
+    position: relative;
+    }
+    .container15-h2 {
+      margin-top: 30px;
+    }
+    .p-1 {
+      left: 20%;
+      width: 134px;
+    }
+      .container1-call {
+        left: 492px;
+      }
+      .container1 .img_1 img {
+        width: 768px;
+      }
+      .blure {
+        bottom: 404px;
+        width: 768px;
+    }
+    .content3 img{
+      width: 223px;
+    }
+    .container7-img {
+      top: -128px;
+    }
+    .container7-img {
+      top: -60px;
+      left: 0px;
+      width: 528px;
+    }
+    .content7 img{
+      width: 30px;
+    }
+    .container7-p {
+      font-size: 10px;
+    }
+    .container7-h2 {
+      font-size: 17px;
+    }
+      .container7-info h3 {
+        font-size: 13px;
+      }
+      .contents7 {
+        height: 420px;
+        position: relative;
+        top: -130px;
+      }
+      .content7 {
+         margin-bottom: 60px;
+      }
+  }
+@media(max-width: 600px){
+    
+}
+
+@media(max-width: 475px){
+    
+}
+
+@media(max-width: 425px){
+    
+}
+@media(max-width: 320px){
+    
 }
